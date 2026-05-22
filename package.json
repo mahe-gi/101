@@ -1,0 +1,24 @@
+{
+  "name": "cs101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "scripts": { "test": "jest" }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahe-gi/CS101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mahe-gi/CS101/issues"
+  },
+  "homepage": "https://github.com/mahe-gi/CS101#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
