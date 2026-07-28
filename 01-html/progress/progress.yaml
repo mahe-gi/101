@@ -1,0 +1,28 @@
+domain: html
+current_phase: foundations
+started: 2026-07-28
+
+topics:
+  - name: html-fundamentals-semantics-a11y
+    status: in_progress
+    started_on: "2026-07-28"
+    completed_on: null
+    scores:
+      notes: null
+      drills: null
+      problems: null
+      assignments: null
+      interview: null
+      teach_back: null
+    weak_areas: []
+    mistakes: []
+    revision:
+      day_01: null
+      day_03: null
+      day_07: null
+      day_15: null
+      day_30: null
+      day_60: null
+      day_120: null
+
+recurring_mistakes: []
